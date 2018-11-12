@@ -3,7 +3,13 @@ body {
     color: #0375b4;
 }
 .button {
-    background-color: #007849;
+    background-color: yellowgreen;
     color: aliceblue;
     padding: 10px;
+}
+.color-par {
+    background: blue;
+}
+.color-non {
+    background: green;
 }
