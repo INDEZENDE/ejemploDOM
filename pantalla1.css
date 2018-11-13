@@ -2,6 +2,10 @@ body {
     background-color: #FFCE00;
     color: #0375b4;
 }
+
+h1 {
+    display: inline};
+}
 .button {
     background-color: yellowgreen;
     color: aliceblue;
